@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Patricio</h1>
-<h3 align="center">A passionate Java backend developer from Chile</h3>
+<h1 align="center">Hi 👋, I'm prezdev</h1>
+<h3 align="center">A Sr. Java backend developer from Chile</h3>
 
 ###
 ## 💻 Tech Stack:
@@ -17,4 +17,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prez.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pperezpinto) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@prezdev) 
 
+###
+## 🐍 Snake commits:
+<img src="https://raw.githubusercontent.com/prezdev88/prezdev88/output/snake.svg" alt="Snake animation" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
